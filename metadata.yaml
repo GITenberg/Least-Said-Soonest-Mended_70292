@@ -1,5 +1,8 @@
 _repo: Least-Said-Soonest-Mended_70292
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47772'
     url: http://www.gutenberg.org/2009/agents/47772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70292#Least-Said-Soonest-Mended
 gutenberg_issued: '2023-03-15'
 identifiers:
   gutenberg: '70292'
